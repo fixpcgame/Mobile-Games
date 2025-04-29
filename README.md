@@ -11,4 +11,4 @@ Browse free mobile games for IOS and Android
 
 ### Spin Tycoon
 
-<img src="Mobile%20Games%20Assets/Design.png" alt="Spin Tycoon Design" style="border-radius: 12px; width: 700px;">
+<img src="Mobile%20Games%20Assets/Design.png" alt="Spin Tycoon Design" style="border-radius: 12px; width: 1000px;">
