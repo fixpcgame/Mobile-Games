@@ -1,8 +1,7 @@
 # Mobile-Games
 📱 Mobile Games - Browse free mobile games for IOS and Android
-<div style="width: 300px; overflow: hidden; border-radius: 12px;">
-  <img src="Mobile%20Games%20Assets/Screenshot1.png" alt="Elasticity Screenshot" style="width: 100%; display: block;">
-</div>
+
+<img src="Mobile%20Games%20Assets/Screenshot1.png" alt="Elasticity Screenshot" style="border-radius: 20%; width: 300px; display: block; overflow: hidden; border: 1px solid #ccc;">
 
 
 ![Elasticity Screenshot](Mobile%20Games%20Assets/Screenshot1.png)
