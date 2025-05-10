@@ -5,11 +5,11 @@
 Bounce from wall to wall, dodging blocks, avoiding pits, weaving through moving obsticles and utilising boost pads.
 
 <p align="left">
-  <img src="Mobile%20Games%20Assets/Screenshot1.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 300px;">
+  <img src="Mobile%20Games%20Assets/Screenshot1.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 250px;">
   
-  <img src="Mobile%20Games%20Assets/Screenshot2.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 300px;">
+  <img src="Mobile%20Games%20Assets/Screenshot2.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 250px;">
   
-  <img src="Mobile%20Games%20Assets/Screenshot3.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 300px;">
+  <img src="Mobile%20Games%20Assets/Screenshot3.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 250px;">
 </p>
 
 ### Spin Tycoon
