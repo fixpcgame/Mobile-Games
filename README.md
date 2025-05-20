@@ -12,6 +12,14 @@ Bounce from wall to wall, dodging blocks, avoiding pits, weaving through moving 
   <img src="Mobile%20Games%20Assets/Screenshot3.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 260px;">
 </p>
 
+<p align="left">
+  <img src="Mobile%20Games%20Assets/Screenshot4.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 260px;">
+  
+  <img src="Mobile%20Games%20Assets/Screenshot5.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 260px;">
+  
+  <img src="Mobile%20Games%20Assets/Screenshot6.png" alt="Elasticity Screenshot" style="border-radius: 12px; width: 260px;">
+</p>
+
 ### Spin Tycoon
 Tycoon style RNG game. Spin to win cash, used to upgrade luck, payout, roll speed and purchase autospinners and collectable cards.
 
