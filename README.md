@@ -4,9 +4,9 @@
 
 Tapping falling presents opens a pop-up giving players a **30% chance of an instant big reward for free** — normally taking minutes to earn. Players are motivated to click. It would feel be a loss not to!
 
-This pop-up is **opt-in**, ensuring **friendly discoverability of ad options.** The remaining 70% of the time, we offer an ad for a much larger reward worth tens of minutes of gameplay.
+Viewing this pop-up is **opt-in**, ensuring **friendly discoverability of ad options.** The remaining 70% of the time, we offer an ad for a much larger reward worth tens of minutes of gameplay.
 
-It’s not aggressive: players can dismiss the ad and the **expected value of clicking far outweighs the cost** (30% chance of a major reward vs 70% chance of dismissing a message).
+Players can dismiss the ad and the **expected value of clicking to open a pop-up far outweighs the cost** (30% chance of a major reward vs 70% chance of dismissing a message).
 
 **Randomised rewards** keep players **anticipating high-value outcomes** during the time's they are lowballed, eagerly awaiting the next present rather than settle for the current offer, subtly driving engagement while supporting monetisation.
 
