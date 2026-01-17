@@ -14,6 +14,8 @@ This feels less of an aggressive attack as they are free to dismiss the ad and t
 
 We randomise reward values and hope the high reward is too good to pass up.
 
-Players anticipate high-value outcomes during the time's they are lowballed, eagerly awaiting the next present rather than settle for the current offer. It could likely be sitting in the back of their mind during gameplay. This mix of chance and choice drives engagement while naturally supporting monetisation.
+Players anticipate high-value outcomes during the time's they are lowballed, eagerly awaiting the next present rather than settle for the current offer. It could likely be sitting in the back of their mind during gameplay.
+
+This mix of chance and choice drives engagement while naturally supporting monetisation.
 
 <img src="Mobile%20Games%20Assets/Design.png" alt="Spin Tycoon Design" style="border-radius: 12px; width: 1000px;">
