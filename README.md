@@ -2,20 +2,12 @@
 
 ## Probabilistic rewarded-ad system, leveraging player anticipation and balancing reward value to preserve progression pacing without forced pop-ups
 
-In the game, tapping falling presents opens a pop-up that gives players a **30% chance of a big reward instantly for free** - something that would normally take minutes to earn.
+Tapping falling presents opens a pop-up giving players a **30% chance of an instant big reward for free** — normally taking minutes to earn. Players are motivated to click. It would feel be a loss not to!
 
-Hence players are motivated to always click. It would be a loss not to!
+This pop-up is **opt-in**, ensuring **friendly discoverability of ad options.** The remaining 70% of the time, we offer an ad for a much larger reward worth tens of minutes of gameplay.
 
-We now have a pop-up they **actively chose to view** (not forced) and ensures **friendly discoverability of ad options.**
+It’s not aggressive: players can dismiss the ad and the **expected value of clicking far outweighs the cost** (30% chance of a major reward vs 70% chance of dismissing a message).
 
-The other 70% of the time we offer the option to watch an ad for a huge reward (worth tens of minutes of game time).
-
-This feels less of an aggressive attack as they are free to dismiss the ad and **the return on clicking to open the pop-up significantly outweighs the cost:** 30% chance to benefit greatly vs 70% chance to dismiss a message.
-
-We **randomise reward values** and hope the high reward is too good to pass up.
-
-Players **anticipate high-value outcomes during the time's they are lowballed, eagerly awaiting the next present** rather than settle for the current offer. It could likely be sitting in the back of their mind during gameplay.
-
-This mix of chance and choice drives engagement while naturally supporting monetisation.
+**Randomised rewards** keep players **anticipating high-value outcomes** during the time's they are lowballed, eagerly awaiting the next present rather than settle for the current offer, subtly driving engagement while supporting monetisation.
 
 <img src="Mobile%20Games%20Assets/Design.png" alt="Spin Tycoon Design" style="border-radius: 12px; width: 1000px;">
