@@ -2,7 +2,7 @@
 
 ## Probabilistic rewarded-ad system, leveraging player anticipation and balancing reward value to preserve progression pacing without forced pop-ups
 
-Tapping falling presents opens a pop-up giving players a **30% chance of an instant big reward for free** — normally taking minutes to earn. Players are motivated to click. It would feel be a loss not to!
+Tapping falling presents opens a pop-up giving players a **30% chance of an instant big reward for free** - normally taking minutes to earn. Players are motivated to click. It would feel be a loss not to!
 
 Viewing this pop-up is **opt-in**, ensuring **friendly discoverability of ad options.** The remaining 70% of the time, we offer an ad for a much larger reward worth tens of minutes of gameplay.
 
